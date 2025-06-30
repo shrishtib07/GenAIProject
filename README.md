@@ -1,1 +1,1 @@
-# trynew
+# GenAI Project
